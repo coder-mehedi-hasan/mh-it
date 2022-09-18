@@ -79,9 +79,10 @@ body {
 .bannermenu a:hover{
     color: #b4b3b3;
 }
-.bannertop{
-    position: sticky !important;
-    top: 0 !important;
+.bannermenu{
+    position: fixed !important;
+    right: 0;
+    top: 4 !important;
 }
 .bannertop{
     display: block;
